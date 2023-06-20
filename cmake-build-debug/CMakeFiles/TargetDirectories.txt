@@ -1,0 +1,3 @@
+/Users/junsu/Desktop/github/sw-block-state-printer/cmake-build-debug/CMakeFiles/sw_block_state_printer.dir
+/Users/junsu/Desktop/github/sw-block-state-printer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/junsu/Desktop/github/sw-block-state-printer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -4,6 +4,3 @@ project(sw_block_state_printer C)
 set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
-
-add_executable(sw_block_state_printer
-        Main.c)

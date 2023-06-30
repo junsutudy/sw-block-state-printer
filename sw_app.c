@@ -9,7 +9,7 @@
 #include <string.h>
 
 #define LOGDIR "./log"
-#define LOGFILE "mylog"
+#define LOGFILE "restart.txt"
 
 char *gettime(void) {
     struct timeval tv;

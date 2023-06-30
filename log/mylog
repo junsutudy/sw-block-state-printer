@@ -1,0 +1,32 @@
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.22 22:15:20.526 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	crash time: 2023.06.22 22:15:24.532 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	start time: 2023.06.23 07:21:02.166 
+process name: ./sw_app	crash time: 2023.06.23 07:21:06.172 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app4	start time: 2023.06.23 07:32:25.454 
+process name: ./sw_app4	crash time: 2023.06.23 07:32:29.462 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app4	Sw_block.txt start time: 2023.06.23 07:32:58.655 
+process name: ./sw_app4	Sw_block.txt crash time: 2023.06.23 07:33:02.661 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app4	start time: 2023.06.23 07:34:59.860 
+process name: ./sw_app4	start time: 2023.06.23 07:35:03.058 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.23 07:38:46.389 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.23 07:39:09.736 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	crash time: 2023.06.23 07:39:13.742 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	start time: 2023.06.23 07:43:44.996 
+process name: ./sw_app	crash time: 2023.06.23 07:43:49.003 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app4	start time: 2023.06.23 07:43:52.508 
+process name: ./sw_app4	crash time: 2023.06.23 07:43:56.515 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	start time: 2023.06.23 07:44:00.167 
+process name: ./sw_app	start time: 2023.06.23 07:45:02.686 
+process name: ./sw_app	start time: 2023.06.23 07:45:09.045 
+process name: ./sw_app	crash time: 2023.06.23 07:45:13.052 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	FileList start time: 2023.06.23 07:48:34.738 
+process name: ./sw_app	FileList crash time: 2023.06.23 07:48:38.741 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	FileList start time: 2023.06.23 07:48:44.546 
+process name: ./sw_app	FileList start time: 2023.06.23 07:48:49.025 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.23 07:50:17.516 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	crash time: 2023.06.23 07:50:21.523 	SIGNAL(7).EMT trap: 7
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.23 07:50:25.127 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	crash time: 2023.06.23 07:50:29.133 	SIGNAL(7).EMT trap: 7
+process name: ./sw_app	start time: 2023.06.23 08:20:04.607 
+process name: ./sw_app	start time: 2023.06.30 10:25:29.819 
+process name: ./sw_app	crash time: 2023.06.30 10:25:33.821 	SIGNAL(7).EMT trap: 7

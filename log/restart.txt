@@ -1,0 +1,2 @@
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	start time: 2023.06.30 10:30:40.504 
+process name: /Users/junsu/Desktop/github/sw-block-state-printer/sw_app	crash time: 2023.06.30 10:30:44.507 	SIGNAL(7).EMT trap: 7
